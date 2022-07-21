@@ -11,3 +11,5 @@ README.md
 coverage.json
 deployments
 .next
+contractAddress.json
+abi.json
